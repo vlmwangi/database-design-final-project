@@ -37,6 +37,3 @@ The schema is implemented in a single `.sql` file.
 1. Install [MySQL](https://dev.mysql.com/downloads/).
 2. Open your MySQL client or MySQL Workbench.
 3. Run the SQL script provided
-
-   ```bash
-   SOURCE db_project.sql;
